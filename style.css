@@ -1,0 +1,56 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color:rgba(0, 0, 0, 0.712);
+}
+.link-button{
+    text-decoration:none;
+    width: 30px;
+    font-size: 20px;
+    font-weight: 800;
+    background-image:linear-gradient(tomato,salmon);
+    padding: 20px 50px;
+    color: whitesmoke;
+    border-radius: 30px;
+}
+.color{
+    color: orangered;
+}
+.felxible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding:5% ;
+}
+.half-width img{
+    width:500px;
+    border-radius:9px;
+}
+.anchore{
+    padding-top:5px;
+}
+.link{
+    padding-right:15px;
+    padding-top: 3px;
+}
+.rong{
+    color:orange;
+}
+.banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.photo-size img{
+    width:70%;
+    height:72%;
+    padding-left: 15%;
+    padding-bottom:23%;
+
+}
+.text-edit{
+    padding-bottom:600px;
+}
+
