@@ -5,6 +5,9 @@ h1{
     font-size: 50px;
     color:rgba(0, 0, 0, 0.712);
 }
+p{
+    color: rgba(22, 17, 17, 0.767);
+}
 .link-button{
     text-decoration:none;
     width: 30px;
@@ -56,5 +59,26 @@ h1{
     padding-bottom:20%;
     padding-right:10%;
 }
-   
+.text-styles{
+    text-align: center;
+}
+.pic{
+    border-radius:50px;
+  
+}
+.shadow{
+    width:100%;
+    padding-left: 5%;
+    padding-right:5%;
+    padding-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10%;
+     box-shadow: 10px 10px 60px grey; 
+}
+.chobi{
+  
+   padding-bottom:10% ;
+   padding-top: 10%;
+}
 
